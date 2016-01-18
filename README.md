@@ -6,3 +6,6 @@ El software realizado se llama PaintMultimedia. Es un programa realizado en Java
     * El software nos permite visualizar imágenes en distintos formatos para aplicarle posteriormente filtros de suavizado, detección de fronteras, enfocado etc. Las imágenes resultantes podrán ser guardas en los formatos de imagen más conocidos.
 
     * También nos permitirá la reproducción de distintos archivos de vídeo y audio siempre que se tengan instalados los codecs necesarios (no están incluidos en el software).
+
+
+Más información y capturas del software en la web http://paintmultimedia.blogspot.com.es
